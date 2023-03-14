@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Cetro Maquinas
-- 🌱 I’m currently learning ReactJs, React Native & NodeJS
+- 🌱 I’m currently developing in ReactJs, Angular & NestJs
 - 😄 Pronouns: She/Her
 
 - My Contacts:
